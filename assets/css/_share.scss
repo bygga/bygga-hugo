@@ -1,0 +1,64 @@
+#share-large {
+    margin-bottom: 10px;
+    background-color: #306199;
+    clear: both;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: flex;
+}
+#share-large a {
+    width: 14%;
+    //font-weight: 500;
+    padding: 7px 0 5px;
+    display: inline-block;
+    font-size: 12px;
+    text-align: center;
+    color: #fff;
+    -webkit-transition: background-color .15s linear;
+    -moz-transition: background-color .15s linear;
+    -o-transition: background-color .15s linear;
+    transition: background-color .15s linear;
+}
+#share-large a.facebook {
+    background-color: #306199;
+}
+#share-large a.twitter {
+    background-color: #26c4f1;
+    width: 72%;
+}
+#share-large a.google-plus {
+    background-color: #DC4E41;
+}
+#share-large a i {
+    font-size: 18px;
+    vertical-align: middle;
+}
+
+#share-large {
+    [class^="icon-"], [class*=" icon-"] {
+    height: 32px;
+    width: 32px;
+    display: inline-block; 
+    fill: currentColor; 
+    margin: 5px 0 0 7px;
+    }
+
+    a {
+        display: block;
+        line-height: 25px;
+        color: white;
+    }
+
+    .svg-img {
+        float: left;
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+        color: #fff;
+        border-radius: 50%;
+        background: $icon-background;
+        margin-right: 15px;
+        margin-bottom: 30px;
+    }
+}

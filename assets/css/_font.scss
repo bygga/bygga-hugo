@@ -1,0 +1,34 @@
+.theme-metier {
+
+	li {
+		text-align: left;
+		margin-bottom: 30px;
+		padding: 0 15px;
+	}
+
+	[class^="icon-"], [class*=" icon-"] {
+    height: 32px;
+    width: 32px;
+    display: inline-block; 
+    fill: currentColor; 
+    margin: 5px 0 0 7px;
+	}
+
+	a {
+		display: block;
+		line-height: 45px;
+		color: $title-color;
+	}
+
+	.svg-img {
+		float: left;
+	    width: 45px;
+	    height: 45px;
+	    line-height: 45px;
+	    color: #fff;
+	    border-radius: 50%;
+	    background: $icon-background;
+	    margin-right: 15px;
+
+	}
+}

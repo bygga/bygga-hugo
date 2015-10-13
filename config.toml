@@ -1,0 +1,40 @@
+baseurl = "http://www.bygga.fr/"
+languageCode = "fr-FR"
+title = "Bygga"
+
+[params]
+  description = "Conseils et astuces pour un site internet à succès"
+
+theme = "bygga"
+
+[author]
+  name = "Simon Brunet"
+  homepage = "http://www.bygga.fr"
+
+[social]
+  facebook = "" 
+  google = ""
+  twitter = ""
+
+[taxonomies]
+  tag = "tags"
+  categorie = "categories"
+
+[[menu.main]]
+    name = "Articles"
+    pre = ""
+    weight = -110
+    identifier = "article"
+    url = "/article/"
+[[menu.main]]
+    name = "Outils pour réussir"
+    pre = ""
+    weight = -110
+    identifier = "outils"
+    url = "/outils-reussir-site-et-blog/"
+[[menu.main]]
+    name = "Thèmes WordPress"
+    pre = ""
+    weight = -110
+    identifier = "themes-wordpress"
+    url = "/themes-wordpress/"

@@ -1,0 +1,20 @@
+Categorie-tag-allowed.txt
+
+Categorie:
+
+- Design
+	. Themes
+	. Ressources
+- Développement Web
+	. WordPress
+	. Jekyll
+	. Hugo
+	. Ghost
+- Référencement
+- Marketing
+- Optimization
+- Réseaux Sociaux
+- Hébergement
+- Idée de site
+- Sécurité
+- Monétisation

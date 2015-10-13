@@ -1,0 +1,37 @@
+{{ partial "header.html" .}}
+{{ partial "nav.html" .}}
+
+<div class="single">
+    <main role="main">
+        <article>
+            <header class="section-spacing title-banner text-center">
+                <div class="container">
+                    <h1>{{ .Title }}</h1>
+                </div>
+            </header>
+            <section class="container">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <div class="post-meta">
+                            <div>{{ .Date.Format "2 Jan 2006" }}</div>
+                                <div class="post-categories">
+                                    <a href="/categories/{{ .Params.categories | urlize }}">{{ .Params.categories }}</a>
+                                </div>
+                            </div>
+                        </div>
+                    <div class="col-sm-8 content">
+                        {{ .Content }}
+                    </div>
+                </div>
+            </section>
+            <footer>
+                {{ partial "share.html" . }}   
+            </footer>
+        </article> 
+    </main> 
+    
+    {{ partial "single-related.html" .}}
+</div>
+       
+
+{{ partial "footer.html" .}}

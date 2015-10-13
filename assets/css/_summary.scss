@@ -1,0 +1,15 @@
+.article-summary {
+	margin: 40px 0;
+	padding-bottom: 40px;
+	border-bottom: 2px solid rgba(0, 0, 0, 0.03);
+
+	.post_title {
+	h3 {
+		margin-top: 5px !important;
+		color: $link-color;
+	}
+	a {
+		color: $link-color;
+	}
+}
+}

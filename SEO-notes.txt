@@ -1,0 +1,18 @@
+# Home page SEO:
+# H1: Blog’s name
+# H2: Your blog’s tagline, if it’s “keyword-rich”; if not, all your recent posts should have an H2.
+# H3: Your recent posts, or, if those have an H2, this could be used for somewhat older posts.
+# H4: related content in the sidebar, like the heading of an “about” widget.
+# H5: Unrelated headings in your sidebar, footer, etc.
+
+# Single
+# H1: post / page title
+# H2’s and H3’s: subheadings and sub-subheadings
+# H4: your blog’s name, and possibly related widgets
+# H5: same as above: sidebars etc.
+
+# Category page
+# H1: category / tag title
+# H2’s: post titles
+# H3: blog’s name
+# Rest: repeat from homepage.

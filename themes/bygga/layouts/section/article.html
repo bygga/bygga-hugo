@@ -1,0 +1,25 @@
+{{ partial "header.html" .}}
+{{ partial "nav.html" .}}
+
+<div class="archive">
+    <main role="main">
+        <header class="section-spacing title-banner text-center">
+            <div class="container">
+                <h1>Liste des articles</h1>
+            </div>
+        </header>
+        <section>
+            <div class="row">
+                <div class="col-sm-2"></div>
+                <div class="col-sm-8 content">
+                    {{ range .Data.Pages }}
+                        {{ .Render "summary"}}
+                    {{ end }}
+                </div>
+            </div>
+        </section>
+    </main> 
+</div>
+       
+
+{{ partial "footer.html" .}}

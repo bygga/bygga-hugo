@@ -1,0 +1,6 @@
+name: "Bygga-hugo"
+license: "MIT"
+licenselink: "https://github.com/bygga/bygga-hugo/blob/master/LICENSE.md"
+homepage: "http://www.bygga.fr/"
+
+min_version: 0.13
