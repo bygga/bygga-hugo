@@ -4,8 +4,7 @@ description: Découvrez comment optimiser la vitesse d'affichage de votre blog W
 author: Simon
 date: 2012-09-15
 url: /voila-5-facons-de-rendre-votre-site-plus-rapide-sous-wordpress/
-categories:
-  - Optimization
+categories: Optimization
 ---
 ## Optimisez la vitesse de votre site pour une meilleure expérience
 Le temps que met votre site internet est très important aux yeux de vos visiteurs mais aussi à ceux des robots de Google.
