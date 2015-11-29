@@ -22,7 +22,7 @@ gulp.task('styles', function() {
     .pipe(autoprefixer('last 2 version', 'safari 5', 'ie 8', 'ie 9', 'opera 12.1', 'ios 6', 'android 4'))
     .pipe(gulp.dest('./assets/css'))
     .pipe(rename({suffix: '.min'}))
-    //.pipe(minifycss())
+    .pipe(minifycss())
     .pipe(gulp.dest('./assets/css'))
     .pipe(gulp.dest('static/assets/css'))
     .pipe(browserSync.reload({stream:true}))
@@ -36,7 +36,7 @@ gulp.task('scripts', function() {
     .pipe(concat('main.js'))
     .pipe(gulp.dest('javascripts'))
     .pipe(rename({suffix: '.min'}))
-    //.pipe(uglify())
+    .pipe(uglify())
     .pipe(gulp.dest('javascripts'))
     .pipe(gulp.dest('static/assets/js'))
     .pipe(notify({ message: 'Scripts task complete' }));

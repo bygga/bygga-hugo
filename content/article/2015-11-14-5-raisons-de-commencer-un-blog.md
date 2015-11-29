@@ -39,7 +39,7 @@ En écrivant des articles sur des sujets au coeur de votre business, vous allez 
 
 S'ils viennent sur votre blog, c'est parce qu'ils sont intéressés par l'article et il y a donc de grandes chances qu'ils soient intéressés par vos produits ou services.
 
-## 5. Les blogs comme centre d'un communauté
+## 5. Les blogs comme centre d'une communauté
 <img src="/assets/img/services-reseaux-sociaux.png" class="alignright" />
 Vous pouvez facilement construire une communauté autour d'un blog. De nombreuses personnes s'inscrivent au flux RSS des blogs pour être au courant des nouveaux articles et ne pas manquer une miette sur vos voyages, nouvelles expériences ou bien vos conseils.
 
