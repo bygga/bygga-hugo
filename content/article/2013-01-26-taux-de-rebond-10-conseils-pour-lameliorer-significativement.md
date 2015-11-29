@@ -4,7 +4,7 @@ description: Voici comment optimiser votre site pour réduire le taux de rebond
 author: Simon
 date: 2013-01-26
 url: /taux-de-rebond-10-conseils-pour-lameliorer-significativement/
-categories: Optimization
+categories: Optimisation
 ---
 ## Le taux de rebond c’est quoi ?
 

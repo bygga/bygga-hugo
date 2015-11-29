@@ -4,7 +4,7 @@ description: Voici comment créer un site internet pour afficher le plan des pis
 author: Simon
 date: 2012-09-24
 url: /de-lidee-au-site-web-fournir-un-plan-des-pistes-de-ski/
-categories: Idée de site
+categories: Idee de site
 ---
 Je vais vous montrer comment utiliser WordPress et ses fonctions pour réaliser un site internet qui donnera accès, aux visiteurs, à l&rsquo;ensemble du plan des pistes des domaines skiables français.  
 

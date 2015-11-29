@@ -1,0 +1,20 @@
+<!--benefits-->
+
+<section class="text-center">
+  <div class="container contentRow">
+    <header class="section-header">
+      <h2>Articles récents</h2>
+      <h5 class="section-description">Améliorez vos connaissances et restez informé sur les nouvelles techniques du web en lisant nos articles du blog.</h5>
+    </header>
+    <div class="row">
+        {{ range first 5 (where .Site.Recent "Section" "article") }}
+            {{ .Render "summary"}}
+        {{ end }}
+    </div>
+    <div class="row">
+        <a href="/article" class="view_all btn">Voir tous les articles</a>
+    </div>
+  </div>
+</section>
+
+<!--benefits end--> 

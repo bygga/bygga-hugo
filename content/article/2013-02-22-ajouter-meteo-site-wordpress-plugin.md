@@ -4,7 +4,7 @@ description: Un plugin tout simple pour afficher la météo en français sur vot
 author: Simon
 date: 2013-02-22
 url: /ajouter-meteo-site-wordpress-plugin/
-categories: Développement Web
+categories: Developpement Web
 tags: WordPress
 ---
 ## Pourquoi avoir la météo sur votre site ?

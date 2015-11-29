@@ -4,7 +4,7 @@ description: Guide pour bien chisir un nom de domaine pour votre nouveau site we
 author: Simon
 date: 2015-03-21
 url: /10-astuces-choisir-bon-nom-de-domaine-pour-site/
-categories: Hébergement
+categories: Hebergement
 ---
 ## Pourquoi votre nom de domaine va faire la différence
 

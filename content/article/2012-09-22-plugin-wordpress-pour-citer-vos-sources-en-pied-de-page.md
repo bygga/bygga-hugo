@@ -4,7 +4,7 @@ description: Un plugin pour facilement afficher vos sources en pied de page
 author: Simon
 date: 2012-09-22
 url: /plugin-wordpress-pour-citer-vos-sources-en-pied-de-page/
-categories: Développement Web
+categories: Developpement Web
 tags: WordPress
 ---
 ## Intérêt de citer vos sources

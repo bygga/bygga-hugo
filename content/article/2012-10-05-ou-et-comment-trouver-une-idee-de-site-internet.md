@@ -4,7 +4,7 @@ description: Une liste pour trouver des idées toutes fraiche de site internet
 author: Simon
 date: 2012-10-05
 url: /ou-et-comment-trouver-une-idee-de-site-internet/
-categories: Idée de site
+categories: Idee de site
 ---
 <img src="http://www.bygga.fr/wp-content/uploads/2012/10/idee-de-site-internet.jpg" alt="idee de site internet" title="idee-de-site-internet" width="459" height="156" class="aligncenter size-full wp-image-410" />
 

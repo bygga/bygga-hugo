@@ -4,7 +4,7 @@ description: Créer un site de ressources pour les étudiants Erasmus
 author: Simon
 date: 2013-02-05
 url: /idee-de-site-web-ressources-sur-erasmus-pour-etudiants/
-categories: Idée de site
+categories: Idee de site
 ---
 Difficulté : <mark>Élevée</mark>
 

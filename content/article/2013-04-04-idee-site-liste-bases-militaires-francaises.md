@@ -4,7 +4,7 @@ description: Créer un site qui liste toutes les bases militaire françaises dan
 author: Simon
 date: 2013-04-04
 url: /idee-site-liste-bases-militaires-francaises/
-categories: Idée de site
+categories: Idee de site
 ---
 ## Description de l’idée
 

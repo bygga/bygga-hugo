@@ -4,7 +4,7 @@ description: Créer un site de suivi des promesses électorales des présidents 
 author: Simon
 date: 2013-04-12
 url: /idee-de-site-suivi-des-promesses-electorales-du-president/
-categories: Idée de site
+categories: Idee de site
 ---
 ## Description de l&rsquo;idée
 

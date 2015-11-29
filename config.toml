@@ -1,15 +1,17 @@
-baseurl = "http://www.bygga.fr/"
+baseurl = "https://www.bygga.fr/"
 languageCode = "fr-FR"
 title = "Bygga"
+canonifyurls = true
 
 [params]
   description = "Conseils et astuces pour un site internet à succès"
+  footer = "L'objectif de Bygga est d'offrir la possibilité à tous de créer et maintenir un site web à succès."
 
 theme = "bygga"
 
 [author]
   name = "Simon Brunet"
-  homepage = "http://www.bygga.fr"
+  homepage = "https://www.bygga.fr"
 
 [social]
   facebook = "" 

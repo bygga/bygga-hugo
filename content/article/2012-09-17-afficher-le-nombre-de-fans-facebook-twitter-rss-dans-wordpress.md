@@ -4,7 +4,7 @@ description: Voici comment facilement afficher le nombre de fans dans votre flux
 author: Simon
 date: 2012-09-17
 url: /afficher-le-nombre-de-fans-facebook-twitter-rss-dans-wordpress/
-categories: Développement Web
+categories: Developpement Web
 tags: WordPress
 ---
 Voici une astuce rapide pour afficher votre nombre de personne qui se sont abonné à votre flux RSS, votre page Facebook ou bien votre compte Twitter.  

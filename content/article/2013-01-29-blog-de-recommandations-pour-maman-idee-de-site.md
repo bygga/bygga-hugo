@@ -4,7 +4,7 @@ description: Gagner de l'argent avec un site de recommandation
 author: Simon
 date: 2013-01-29
 url: /blog-de-recommandations-pour-maman-idee-de-site/
-categories: Idée de site
+categories: Idee de site
 ---
 Est-ce que je dois proposer des idées qui ont toute une bonne morale ? Je n’en suis pas sûr, du coup je vous propose <a href="http://www.bygga.fr/categories/idee-de-site/" title="Idée de site web" target="_blank">l’idée de site</a> suivante :
 

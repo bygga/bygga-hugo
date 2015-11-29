@@ -4,7 +4,7 @@ description: Un guide complet du favicon et tous ses formats, comme Apple, Windo
 author: Simon
 date: 2013-09-15
 url: /favicon-toutes-les-size-et-type-a-utiliser-pour-noublier-personne/
-categories: Développement Web
+categories: Developpement Web
 ---
 ## Qu&rsquo;est-ce qu&rsquo;un Favicon
 

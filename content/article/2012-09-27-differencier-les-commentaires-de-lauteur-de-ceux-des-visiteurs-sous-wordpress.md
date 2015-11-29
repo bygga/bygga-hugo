@@ -4,7 +4,7 @@ description: Voici comment mettre en avant les commentaires de l'admin dans Word
 author: Simon
 date: 2012-09-27
 url: /differencier-les-commentaires-de-lauteur-de-ceux-des-visiteurs-sous-wordpress/
-categories: Développement Web
+categories: Developpement Web
 tags: WordPress
 ---
 ## Pourquoi personnaliser les commentaires de l'auteur

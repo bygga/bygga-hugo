@@ -4,7 +4,7 @@ description: Un guide qui explique comment simplement installer Bootstrap 3 sous
 author: Simon
 date: 2013-10-12
 url: /installer-bootstrap-3-wordpress/
-categories: Développement Web
+categories: Developpement Web
 tags: WordPress
 ---
 ## Pourquoi utiliser Bootstrap et WordPress

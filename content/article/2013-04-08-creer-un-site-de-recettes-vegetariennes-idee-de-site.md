@@ -4,7 +4,7 @@ description: Créer un site qui propose ds recettes végétariennes et d'autres 
 author: Simon
 date: 2013-04-08
 url: /creer-un-site-de-recettes-vegetariennes-idee-de-site/
-categories: Idée de site
+categories: Idee de site
 ---
 ## Présentation de l&rsquo;idée
 

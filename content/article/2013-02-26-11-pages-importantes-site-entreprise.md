@@ -4,7 +4,7 @@ description: Tous les sites web ont la même architecture et voici les pages ind
 author: Simon
 date: 2013-02-26
 url: /11-pages-importantes-site-entreprise/
-categories: Optimization
+categories: Optimisation
 ---
 ## Une construction standard
 

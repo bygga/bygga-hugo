@@ -4,7 +4,7 @@ description: Voici comment gagner de l'argent en rédigeant des CV et des lettre
 author: Simon
 date: 2013-05-15
 url: /idee-de-site-web-rediger-des-cv-et-lettres-de-motivation/
-categories: Idée de site
+categories: Idee de site
 ---
 ## Explication de l’idée de site
 

@@ -4,7 +4,7 @@ description: Voici mes arguments pour vous poussez à utiliser WordPress comme C
 author: Simon
 date: 2012-10-02
 url: /5-raisons-dutiliser-wordpress-pour-developper-son-site-internet/
-categories: Développement Web
+categories: Developpement Web
 tags: WordPress
 ---
 ## WordPress est un framework

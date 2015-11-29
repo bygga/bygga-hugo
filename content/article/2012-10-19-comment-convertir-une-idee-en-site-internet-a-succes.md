@@ -4,7 +4,7 @@ description: Une liste d'outils pour vous permettre de convertir une idée en si
 author: Simon
 date: 2012-10-19
 url: /comment-convertir-une-idee-en-site-internet-a-succes/
-categories: Idée de site
+categories: Idee de site
 ---
 ## Définissez votre projet
 

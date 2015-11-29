@@ -4,7 +4,7 @@ description: Découvrez comment gagner de l'argent avec un magazine en français
 author: Simon
 date: 2013-01-15
 url: /rediger-un-magazinejournal-en-francais-simplifie/
-categories: Idée de site
+categories: Idee de site
 ---
 Difficulté : <mark>Moyenne</mark>
 

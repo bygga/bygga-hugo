@@ -4,7 +4,7 @@ description: Voici comment ajouter un script pour charger les Google Fonts sur W
 author: Simon
 date: 2013-02-01
 url: /comment-ajouter-facilement-google-fonts-a-votre-site-wordpress/
-categories: Développement Web
+categories: Developpement Web
 tags: WordPress
 ---
 

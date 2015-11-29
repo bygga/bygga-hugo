@@ -4,7 +4,7 @@ description: Créer un site qui propose des ressources sur comment protéger son
 author: Simon
 date: 2013-05-13
 url: /idee-de-site-eduquer-et-proteger-ses-enfants-sur-internet/
-categories: Idée de site
+categories: Idee de site
 ---
 Difficulté : <mark>Facile</mark>
 

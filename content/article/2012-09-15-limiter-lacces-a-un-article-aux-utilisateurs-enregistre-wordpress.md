@@ -4,7 +4,7 @@ description: Voici comment mettre en place un systeme d'abonnement pour lire vos
 author: Simon
 date: 2012-09-15
 url: /limiter-lacces-a-un-article-aux-utilisateurs-enregistre-wordpress/
-categories: Développement Web
+categories: Developpement Web
 tags: WordPress
 ---
 ## Un systeme d'abonnement pour votre site WordPress

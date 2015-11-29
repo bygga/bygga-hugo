@@ -4,7 +4,7 @@ description: Une solution toute simple pour ajouter des tableaux sous WordPress
 author: Simon
 date: 2013-02-12
 url: /plugins-ajouter-facilement-tableaux-wordpress/
-categories: Développement Web
+categories: Developpement Web
 tags: WordPress
 ---
 ## Créer un tableau : pas toujours facile

@@ -1,0 +1,199 @@
+/*----------------------------------------------------------------*/
+footer .top_footer{
+	background-color: #2a2f36;
+}
+footer .top_footer .footer_widgets {
+  padding: 80px 0;
+}
+footer .top_footer .footer_widgets .footer_widget .title {
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  line-height: 40px;
+  margin: 0;
+}
+footer .top_footer .footer_widgets .footer_widget .title:after {
+  content: '';
+  display: block;
+  width: 50px;
+  height: 2px;
+  background: #27ae61;
+}
+footer .top_footer .footer_widgets .footer_widget .body {
+  margin-top: 30px;
+  font-family: 'Droid Serif', serif;
+  font-size: 13px;
+  color: #aaa;
+  letter-spacing: 0.5px;
+  line-height: 26px;
+
+  p {
+  	color: #ccc;
+  	font-size: 14px;
+  }
+}
+footer .top_footer .footer_widgets .footer_widget .body .socials li {
+  float: left;
+  margin-right: 8px;
+}
+footer .top_footer .footer_widgets .footer_widget .body .socials li a {
+  display: block;
+  width: 38px;
+  line-height: 38px;
+  padding: 0;
+  text-align: center;
+  border: 1px solid transparent;
+  background: #3d4248;
+  color: #ccc;
+}
+footer .top_footer .footer_widgets .footer_widget .body .socials li a:hover {
+  border: 1px solid #fff;
+  background: transparent;
+  color: #fff;
+}
+footer .top_footer .footer_widgets .footer_widget .body .links {
+  columns: 170px 2;
+  margin: 0;
+}
+footer .top_footer .footer_widgets .footer_widget .body .links li {
+  display: block;
+  font-size: 13px;
+  line-height: 24px;
+  margin-bottom: 16px;
+}
+footer .top_footer .footer_widgets .footer_widget .body .links li:before {
+  margin-right: 5px;
+}
+footer .top_footer .footer_widgets .footer_widget .body .links li a {
+  font-family: 'Droid Serif', serif;
+  color: #ccc;
+  border-bottom: 1px dotted transparent;
+}
+footer .top_footer .footer_widgets .footer_widget .body .links li a:hover {
+  color: #FFF;
+  border-bottom: 1px dotted #fff;
+}
+footer .top_footer .footer_widgets .footer_widget .body #mc_embed_signup .mailchimp_form {
+  overflow: hidden;
+  padding-bottom: 10px;
+}
+footer .top_footer .footer_widgets .footer_widget .body #mc_embed_signup .mailchimp_form .input-group {
+  position: relative;
+  border-bottom: 1px solid  #3d4045;
+  height: 30px;
+  margin: 0;
+}
+footer .top_footer .footer_widgets .footer_widget .body #mc_embed_signup .mailchimp_form .input-group + .input-group {
+  margin-top: 25px;
+}
+footer .top_footer .footer_widgets .footer_widget .body #mc_embed_signup .mailchimp_form .input-group .mce_inline_error {
+  position: absolute;
+  line-height: 20px;
+  margin: 0;
+  background: rgba(234, 239, 241, 0.15);
+  width: 100%;
+  top: 100%;
+  padding: 0 15px;
+  font-family: 'Droid Serif', serif;
+  font-size: 11px;
+  font-weight: 300;
+}
+footer .top_footer .footer_widgets .footer_widget .body #mc_embed_signup .mailchimp_form .input-group .input-group-addon {
+  background: none;
+  border-radius: 0;
+  padding: 0;
+  border: none;
+}
+footer .top_footer .footer_widgets .footer_widget .body #mc_embed_signup .mailchimp_form .input-group .form-control {
+  border-radius: 0;
+  top: 0;
+  padding: 0 15px;
+  line-height: 30px;
+  color: #ccc;
+  background: none;
+  border: none;
+  box-shadow: none;
+  height: 30px;
+  font-family: 'Droid Serif', serif;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+}
+footer .top_footer .footer_widgets .footer_widget .body #mc_embed_signup .mailchimp_form .input-group .form-control.mce_inline_error {
+  border: none;
+  box-shadow: none;
+  background: none;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+}
+footer .top_footer .footer_widgets .footer_widget .body #mc_embed_signup .mailchimp_form .submit_btn {
+  margin-top: 28px;
+  height: 49px;
+  background: none;
+}
+footer .top_footer .footer_widgets .footer_widget .body #mc_embed_signup .mailchimp_form .submit_btn span {
+  display: block;
+  line-height: 45px;
+}
+footer .top_footer .footer_widgets .footer_widget .body #mc_embed_signup .mailchimp_form .submit_btn:after {
+  border: 3px solid rgba(234, 239, 241, 0.15);
+  border-radius: 30px;
+  padding: 0;
+  top: -1px;
+  bottom: -1px;
+}
+footer .top_footer .footer_widgets .footer_widget .body #mc_embed_signup .mailchimp_form .submit_btn:hover:after {
+  border: 3px solid rgba(234, 239, 241, 0.2);
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+footer .top_footer .footer_widgets2 {
+  line-height: 78px;
+  text-align: center;
+  background: #34383e;
+  margin-bottom: -40px;
+  position: relative;
+  z-index: 2;
+}
+footer .top_footer .footer_widgets2 .nav {
+  margin: 0;
+}
+footer .top_footer .footer_widgets2 .nav li a {
+  padding: 0;
+  font-family: 'Cabin', sans-serif;
+  color: #aaa;
+  font-size: 13px;
+  display: inline-block;
+  border-bottom: 2px solid transparent;
+}
+footer .top_footer .footer_widgets2 .nav li a img {
+  margin-right: 10px;
+  display: inline-block;
+}
+footer .top_footer .footer_widgets2 .nav li a strong {
+  margin-right: 5px;
+  color: #fff;
+}
+footer .top_footer .footer_widgets2 .nav li a:hover {
+  background: none;
+  border-bottom: 2px solid #27ae61;
+}
+footer .copyright {
+  text-align: center;
+  background: #22262c;
+  padding-top: 40px;
+  line-height: 80px;
+  color: #aaa;
+  font-family: 'Droid Serif', serif;
+  font-size: 12px;
+  letter-spacing: 0.5px;
+}
+footer .copyright a {
+  color: #aaa;
+}
+footer #mc_embed_signup {
+  margin-top: 30px;
+}

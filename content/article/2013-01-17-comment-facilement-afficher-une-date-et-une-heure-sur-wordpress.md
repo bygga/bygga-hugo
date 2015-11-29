@@ -4,7 +4,7 @@ description: Code pour afficher la daye et l'heure sur votre thème WordPress sa
 author: Simon
 date: 2013-01-17
 url: /comment-facilement-afficher-une-date-et-une-heure-sur-wordpress/
-categories: Développement Web
+categories: Developpement Web
 tags: WordPress
 ---
 Voici une petite astuce qui permet d&rsquo;afficher facilement et rapidement une sous WordPress sans connaissance en PHP ou autres languages.

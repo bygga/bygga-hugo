@@ -5,7 +5,7 @@ author: Simon
 date: 2012-07-24
 img: /img/traduire-wordpress-francais.png
 url: /comment-traduire-un-theme-wordpress-en-francais/
-categories: Développement Web
+categories: Developpement Web
 tags: WordPress
 ---
 ## L'anglais reste la langue principale des développeurs

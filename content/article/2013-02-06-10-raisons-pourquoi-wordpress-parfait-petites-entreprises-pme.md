@@ -4,7 +4,7 @@ description: Voici pourquoi je recommande aux PME d'utiliser la plateforme WordP
 author: Simon
 date: 2013-02-06
 url: /10-raisons-pourquoi-wordpress-parfait-petites-entreprises-pme/
-categories: Développement Web
+categories: Developpement Web
 tags: Wordpress
 ---
 ## L'importance d'un site internet pour les PME

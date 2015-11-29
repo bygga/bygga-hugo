@@ -4,7 +4,7 @@ description: Créer une newsletter pour donner des conseils aux futurs parents
 author: Simon
 date: 2013-05-09
 url: /idee-de-site-newsletter-hebdomadaire-pour-futurs-parents/
-categories: Idée de site
+categories: Idee de site
 ---
 Difficulté : <mark>Facile</mark>
 

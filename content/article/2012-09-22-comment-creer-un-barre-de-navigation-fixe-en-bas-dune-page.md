@@ -4,7 +4,7 @@ description: Tirer les avantages d'un barre fix en pied de page
 author: Simon
 date: 2012-09-22
 url: /comment-creer-un-barre-de-navigation-fixe-en-bas-dune-page/
-categories: Développement Web
+categories: Developpement Web
 tags: WordPress
 ---
 ## Exemple d'une barre fixe en pied de page de WordPress

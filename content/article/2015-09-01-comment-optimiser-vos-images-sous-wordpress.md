@@ -4,7 +4,7 @@ description: Voici des astuces pour réduire la taille de vos images et optimise
 author: Simon
 date: 2015-09-01
 url: /comment-optimiser-vos-images-sous-wordpress/
-categories: Optimization
+categories: Optimisation
 ---
 ## La taille des images est importante
 

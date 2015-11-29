@@ -4,7 +4,7 @@ description: Voici comment ajouter une table des matières avec un plugin WordPr
 author: Simon
 date: 2013-02-15
 url: /ajouter-facilement-table-matieres-wordpress/
-categories: Développement Web
+categories: Developpement Web
 tags: WordPress
 ---
 ## Une table des matières comme Wikipedia

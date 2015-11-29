@@ -4,7 +4,7 @@ description: Développeur de thèmes WordPress, voici comment en facilité leur 
 author: Simon
 date: 2012-09-26
 url: /comment-faciliter-la-traduction-de-son-theme-wordpress/
-categories: Développement Web
+categories: Developpement Web
 tags: WordPress
 ---
 ## WordPress, l&rsquo;anglais et le français

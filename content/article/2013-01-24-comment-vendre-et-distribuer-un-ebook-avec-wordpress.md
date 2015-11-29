@@ -4,7 +4,7 @@ description: Toutes les étapes pour vendre votre ebook avec WordPress
 author: Simon
 date: 2013-01-24
 url: /comment-vendre-et-distribuer-un-ebook-avec-wordpress/
-categories: Monétisation
+categories: Monetisation
 ---
 ## WordPress comme plateforme de vente de votre ebook
 Vous venez d’écrire un ebook flambant neuf, innovant, unique et plein d’informations. C’était une première étape difficile mais maintenant les choses vont se simplifier pour vendre et commercialiser votre ebook.  

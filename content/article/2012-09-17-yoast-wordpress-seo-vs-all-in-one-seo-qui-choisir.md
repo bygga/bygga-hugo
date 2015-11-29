@@ -4,7 +4,7 @@ description: Explication du duel entre les deux plugins de SEO les plus populair
 author: Simon
 date: 2012-09-17
 url: /yoast-wordpress-seo-vs-all-in-one-seo-qui-choisir/
-categories: Référencement
+categories: Referencement
 ---
 ## Le référencement de base WordPress n'est pas suffisent
 Par défaut WordPress possède déjà une sélection d’options pour optimiser son positionnement sous Google. Pensez par exemple à la structure des liens modifiables pour y afficher le titre de l’article plutôt qu’un simple identifiant.

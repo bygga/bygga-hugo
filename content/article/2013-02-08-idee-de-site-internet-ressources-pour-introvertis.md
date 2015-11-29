@@ -4,7 +4,7 @@ description: Créer un site de ressources sur les personnes introverties
 author: Simon
 date: 2013-02-08
 url: /idee-de-site-internet-ressources-pour-introvertis/
-categories: Idée de site
+categories: Idee de site
 ---
 ## Description de l’idée de site
 

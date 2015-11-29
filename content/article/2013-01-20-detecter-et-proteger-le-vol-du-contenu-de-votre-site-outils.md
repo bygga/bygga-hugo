@@ -4,7 +4,7 @@ description: Voici comment détecter le plagiat et vous en protéger.
 author: Simon
 date: 2013-01-20
 url: /detecter-et-proteger-le-vol-du-contenu-de-votre-site-outils/
-categories: Sécurité
+categories: Securite
 ---
 ## Le plagiat touche tout le monde
 

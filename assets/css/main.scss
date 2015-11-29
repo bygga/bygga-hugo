@@ -2,84 +2,11 @@
 @import 'font';
 @import 'share';
 // @import 'nav';
-@import 'body';
+@import 'structure';
+@import 'single';
+@import 'home';
 // @import 'sidebar';
-// @import 'footer';
 @import 'prism';
 @import 'img';
 @import 'summary';
-body {
-  font-family: $body-font;
-  line-height: 1.5;
-  font-weight: 400;
-  font-size: $font-size;
-  overflow-x: hidden;
-}
-
-p {
-  font-weight: 400;
-  color: $text-color;
-  font-size: $font-size;
-}
-
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-weight: bold;
-  color: $title-color;
-}
-h1 {
-  font-size: 36px;
-  font-weight: 800;
-}
-h4 {
-  font-size: 20px;
-  margin: 12px 0;
-}
-
-a {
-  color: #f56363;
-  transition: all 0.3s ease-in-out;
-}
-
-a:hover,
-a:focus {
-  color: #fa5454;
-  text-decoration: none;
-}
-
-a:focus { outline: none; }
-
-img {
-  max-width: 100%;
-  height: auto;
-}
-
-ul,
-li {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-b,
-strong { 
-  font-weight: 600; 
-  background-color: $jaune-fluo;
-}
-blockquote {
-  background-color: #f56363;
-  padding: 30px 30px 30px 60px;
-  margin: 20px 0;
-
-  p {
-    color: white;
-  }
-}
-blockquote:before {
-  color: white;
-}
+@import 'footer';

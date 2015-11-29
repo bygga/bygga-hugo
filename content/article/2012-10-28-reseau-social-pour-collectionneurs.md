@@ -4,7 +4,7 @@ description: Une idée tout fraiche de site internet qui se destinne aux collect
 author: Simon
 date: 2012-10-28
 url: /reseau-social-pour-collectionneurs/
-categories: Idée de site
+categories: Idee de site
 ---
 <img src="http://www.bygga.fr/wp-content/uploads/2012/10/collection-appareil-photo.jpeg" alt="collection appareil photo" title="collection appareil photo" width="500" height="375" class="aligncenter size-full wp-image-442" />  
 Difficulté : <mark>Moyenne</mark>

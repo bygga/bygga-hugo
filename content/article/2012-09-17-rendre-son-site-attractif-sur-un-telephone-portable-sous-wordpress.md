@@ -4,7 +4,7 @@ description: Voici comment rendre son site fluide et lisible sur un appareil mob
 author: Simon
 date: 2012-09-17
 url: /rendre-son-site-attractif-sur-un-telephone-portable-sous-wordpress/
-categories: Optimization
+categories: Optimisation
 ---
 ## Les visiteurs utilisent leur téléphone portable
 De plus en plus d&rsquo;utilisateurs utilisent leur téléphone portable ou tablette pour se connecter sur internet. Vu que ce nombre va continuer d&rsquo;augmenter il serait dommage de perdre des visiteurs parce que votre site n&rsquo;est pas optimisé pour les téléphones mobile.  

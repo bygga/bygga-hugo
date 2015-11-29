@@ -1,0 +1,283 @@
+.welcome-message {
+	.cta-btn {
+		margin: 4em 0;
+	}
+}
+
+.section-header h2:after {
+    width: 40px;
+    height: 2px;
+    background: #ea9c50;
+    content: '';
+    display: block;
+    margin: 15px auto;
+}
+
+.bannercontainer {
+  width: 100%;
+  position: relative;
+  background: url('../img/slide-pattern.png') repeat scroll 0 0 transparent;
+  overflow: hidden;
+}
+.bannercontainer .container {
+	padding: 3em 0;
+}
+@media (max-width: 768px){
+	.bannercontainer .container {
+	    padding: 1.5em 0;
+	}
+}
+.bannercontainer h2{
+	padding-top: 1em;
+}
+.bannercontainer h2:after {
+	width: 70px;
+    height: 3px;
+    background: #ea9c50;
+    content: '';
+    display: block;
+    margin: 1em 0;
+}
+
+.bannercontainer h3 {
+	line-height: 150%;
+	font-size: 20px !important;
+}
+
+i.fa-check {
+    margin: 0 20px;
+    width: 30px;
+    height: 30px;
+    border: 2px solid #f2f2f2;
+    text-align: center;
+    line-height: 26px;
+    font-size: 12px;
+    color: #27ae61;
+    border-radius: 100%;
+}
+
+.offre_analyse {
+	background-color: #fff;
+}
+.offre_analyse h2 {
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 36px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.offre_analyse h2:after {
+  width: 40px;
+  height: 2px;
+  background: #ea9c50;
+  content: '';
+  display: block;
+  margin: 15px 0 20px;
+}
+.offre_analyse p {
+  font-size: 20px;
+  line-height: 26px;
+  color: #777777;
+  margin-bottom: 40px;
+}
+.offre_analyse .nav li {
+  padding-left: 20px;
+  line-height: 20px;
+  color: #777777;
+}
+.offre_analyse .nav li + li {
+  margin-top: 10px;
+}
+
+.funfacts_ab {
+  background: url('../img/home-facts.jpg') no-repeat scroll center 0 transparent;
+  height: 335px;
+  padding-top: 90px;
+}
+.funfacts_ab .fact {
+  color: #fff;
+  text-transform: uppercase;
+}
+.funfacts_ab .fact + .fact {
+  border-left: 1px solid rgba(255, 255, 255, 0.3);
+  padding: 0 85px;
+}
+.funfacts_ab .fact .counter {
+  font-size: 26px;
+  letter-spacing: 1px;
+  line-height: 1;
+  margin-bottom: 5px;
+  font-weight: bold;
+  margin-top: 0;
+  display: block;
+}
+.funfacts_ab .fact .name {
+  font-size: 13px;
+  line-height: 20px;
+  letter-spacing: 1px;
+  margin: 0;
+}
+@media (max-width: 767px) {
+	.funfacts_ab {
+    padding-top: 20px;
+  }
+  .funfacts_ab .fact {
+    text-align: center;
+    padding: 0 0 10px;
+  }
+  .funfacts_ab .fact + .fact {
+    padding: 10px 0;
+    border: none;
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
+  }
+  .funfacts_ab .fact .row {
+    margin: 0;
+  }
+  .funfacts_ab .fact .counter {
+    margin: 0;
+  }
+  .funfacts_ab .fact .name {
+    line-height: 16px;
+  }
+}
+
+/*----------------------------------------------------------------*/
+.feature_col .media-left {
+  padding: 0;
+  position: relative;
+}
+.feature_col .media-left a {
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  border: 1px solid #27ae61;
+  text-align: center;
+  box-shadow: 4px 4px 0 #f4f6f7;
+  display: block;
+  transition: all 300ms ease-in-out 0s;
+}
+.feature_col .media-body {
+  padding-left: 20px;
+}
+.feature_col .media-body h3 {
+  margin-top: 0;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  color: #232323;
+  margin-bottom: 15px;
+}
+.feature_col .media-body h3:after {
+  background: #cdd4d8;
+  content: '';
+  display: block;
+  width: 38px;
+  height: 2px;
+  margin-top: 10px;
+}
+.feature_col .media-body p {
+  font-size: 12px;
+  font-family: 'Droid Serif', serif;
+  line-height: 22px;
+  letter-spacing: 0.5px;
+  color: #777777;
+}
+.feature_col .media-body a {
+  color: #232323;
+}
+.feature_col:hover .media-left a {
+  border: 2px solid #27ae61;
+  line-height: 53px;
+}
+.feature_col svg {
+  height: 25px;
+  width: 25px;
+  left: 15px;
+  top: 15px;
+  position: absolute
+}
+.view_all {
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 40px;
+    border: 2px solid #27ae61;
+    border-radius: 25px;
+    padding: 0 28px;
+    color: #232323;
+}
+
+/*----------------------------------------------------------------*/
+.successive_process {
+  border-bottom: 1px solid  #e8e8e8;
+}
+.successive_process .successive_process_inner {
+  background: url('../img/flow-avion.png') no-repeat scroll center 0;
+  padding-top: 50px;
+  margin-bottom: 50px;
+}
+.successive_process .successive_process_inner .process{
+  margin-right: 50px;
+  text-align: center;
+  h3 {
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    line-height: 1;
+    letter-spacing: 0.8px;
+    color: #232323;
+  }
+}
+.successive_process .successive_process_inner .process .dot_circle {
+  background: url('../img/flow-dotted.png') no-repeat scroll 0 0;
+  background-size: cover;
+  padding: 15px;
+  border-radius: 100%;
+  margin-bottom: 28px;
+  width: 180px;
+  height: 180px;
+  transition: all 300ms ease-in-out 0s;
+}
+.successive_process .successive_process_inner .process .dot_circle .icon_circle {
+  width: 165px;
+  height: 165px;
+  line-height: 175px;
+  border-radius: 100%;
+  background: #f4f6f7;
+  margin: -6.6px;
+  position: relative;
+}
+.successive_process .successive_process_inner .process .dot_circle .icon_circle .hover_texts{
+  position: absolute;
+  line-height: 24px;
+  letter-spacing: 0.8px;
+  font-size: 15px;
+  color: #232323;
+  font-style: italic;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  padding-top: 60px;
+  opacity: 0;
+  transition: all 300ms ease-in-out 0s;
+}
+.successive_process .successive_process_inner .process .dot_circle .icon_circle img {
+  display: inline-block;
+  transition: all 300ms ease-in-out 0s;
+  max-width: 110px;
+  margin-top: -20px;
+}
+.successive_process .successive_process_inner .process:hover .dot_circle {
+  background-image: url('../img/flow-dotted-hover.png');
+}
+.successive_process .successive_process_inner .process:hover .dot_circle .icon_circle img {
+  opacity: 0.05;
+}
+.successive_process .successive_process_inner .process:hover .dot_circle .icon_circle .hover_texts{
+  opacity: 1;
+}
+
+.post_text {
+  width: 80%;
+  margin: 0 auto;
+}

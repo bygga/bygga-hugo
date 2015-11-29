@@ -1,0 +1,5 @@
+in bygga-hugo
+hugo server --watch --verbos -t bygga
+
+in bygga-hugo 
+gulp

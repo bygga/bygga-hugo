@@ -1,0 +1,19 @@
+{{ partial "header.html" .}}
+{{ partial "nav.html" .}}
+
+<main role="main">
+    <article>
+        <header class="section-spacing title-banner text-center">
+            <div class="container">
+                <h1>{{ .Title }}</h1>
+            </div>
+        </header>
+        {{ .Content }}
+        <footer>
+            
+        </footer>
+    </article> 
+</main>
+       
+
+{{ partial "footer.html" .}}

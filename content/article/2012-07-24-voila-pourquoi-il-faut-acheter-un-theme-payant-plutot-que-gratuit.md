@@ -5,7 +5,7 @@ author: Simon
 img: /img/theme-wordpress-gratuit.png
 date: 2012-07-24
 url: /voila-pourquoi-il-faut-acheter-un-theme-payant-plutot-que-gratuit/
-categories: Sécurité
+categories: Securite
 
 ---
 ## Le marché gigantesque des thèmes WordPress

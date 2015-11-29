@@ -4,7 +4,7 @@ description: Voici comment utiliser Contact Form 7 pour ajouter un formulaire de
 author: Simon
 date: 2012-09-17
 url: /ajouter-facilement-un-formulaire-de-contact-sur-son-site-wordpress/
-categories: Développement Web
+categories: Developpement Web
 tags: WordPress
 ---
 ## Importance du formulaire de contact

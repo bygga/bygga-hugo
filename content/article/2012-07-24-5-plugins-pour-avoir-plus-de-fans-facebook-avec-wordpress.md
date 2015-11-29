@@ -3,8 +3,7 @@ title: 5 plugins pour avoir plus de fans Facebook avec WordPress
 author: Simon
 date: 2012-07-24
 url: /5-plugins-pour-avoir-plus-de-fans-facebook-avec-wordpress/
-categories: Code
-tags: Plugin
+categories: Reseaux Sociaux
 ---
 Si vous avez un site construit avec la plateforme WordPress et que vous avez de la peine à augmenter votre nombre de fans sur Facebook, alors j’ai une bonne nouvelle pour vous ! J’ai fait quelques recherches sur Google pour trouver quels étaient les meilleures solutions disponibles sous WordPress pour augmenter son nombre de fans sur Facebook. J’ai trouvé 5 plugins qui devraient aider !  
 Pour l’un de mes autres sites internet destinés aux ados j’ai eu envie d’élargir le nombre de fans de ma page Facebook. Je pense que pour ce type de cibles (les ados) ça peut me rapporter gros d’avoir une communauté solide de fans Facebook.  

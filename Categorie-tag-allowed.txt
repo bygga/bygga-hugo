@@ -1,20 +1,24 @@
-Categorie-tag-allowed.txt
-
 Categorie:
 
 - Design
 	. Themes
 	. Ressources
-- Développement Web
+- Developpement Web
 	. WordPress
 	. Jekyll
 	. Hugo
 	. Ghost
-- Référencement
+- Referencement
 - Marketing
-- Optimization
-- Réseaux Sociaux
-- Hébergement
-- Idée de site
-- Sécurité
-- Monétisation
+- Optimisation
+- Reseaux Sociaux
+- Hebergement
+- Idee de site
+- Securite
+- Monetisation
+
+
+Prennez une longueur d'avance sur vos concurrents !
+Suivez les conseils de professionnel du web
+Découvrez comment faire figurer votre site en première page de Google
+
