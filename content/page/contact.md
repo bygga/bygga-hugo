@@ -20,7 +20,7 @@ Vous pouvez contacter bygga.fr en utilisant le formulaire ci-dessous.
             <input type="text" class="form-control" name="email" required>
         </div>
     </div>
-    <input type="hidden" name="_next" value="//site.io/thanks.html" />
+    <input type="hidden" name="_next" value="/contact-merci/" />
     <input type="text" name="_gotcha" style="display:none" />
     <div class="col-sm-12 text-center">
         <button class="borderred_link" type="submit"><span>Envoyer</span></button>

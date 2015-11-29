@@ -44,7 +44,7 @@ layout: fullwidth-html
                     <input type="text" class="form-control" name="email" required>
                 </div>
             </div>
-            <input type="hidden" name="_next" value="//site.io/thanks.html" />
+            <input type="hidden" name="_next" value="/analyse-web-merci/" />
             <input type="text" name="_gotcha" style="display:none" />
             <div class="col-sm-12 text-center">
                 <button class="borderred_link" type="submit"><span>Faire l'analyse !</span></button>
