@@ -3,3 +3,17 @@ hugo server --watch --verbos -t bygga
 
 in bygga-hugo 
 gulp
+
+
+How to add an article
+---------------------
+In /content/article
+
+
+```php
+<title><?php bloginfo('name'); ?> <?php bloginfo('description');?></title>
+<link rel="shorcut icon" type="image/x-ico" href="<php bloginfo('template_url'); ?>/favicon.jpg" />
+<link rel="stylesheet" type="text/css" media="screen" href="<?php bloginfo('stylesheet_url'); ?>"/>
+<link rel="stylesheet" type="text/css" media="print" href="<?php bloginfo('template_url'); ?>/print.css" />
+<link rel="alternate" type="application/rss+xml" title="RSS .92" href="<?php bloginfo('rss_url'); ?>" />
+```
