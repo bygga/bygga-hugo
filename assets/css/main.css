@@ -43,8 +43,8 @@
   font-size: 12px;
   text-align: center;
   color: #fff;
-  -webkit-transition: background-color 0.15s linear;
-  transition: background-color 0.15s linear; }
+  -webkit-transition: background-color .15s linear;
+  transition: background-color .15s linear; }
 
 #share-large a.facebook {
   background-color: #306199; }

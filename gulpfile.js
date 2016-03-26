@@ -1,7 +1,8 @@
 var gulp = require('gulp'),
     sass = require('gulp-sass'),
     autoprefixer = require('gulp-autoprefixer'),
-    minifycss = require('gulp-minify-css'),
+    //minifycss = require('gulp-minify-css'),
+    cleanCSS = require('gulp-clean-css'),
     jshint = require('gulp-jshint'),
     uglify = require('gulp-uglify'),
     rename = require('gulp-rename'),
@@ -22,13 +23,19 @@ gulp.task('styles', function() {
     .pipe(autoprefixer('last 2 version', 'safari 5', 'ie 8', 'ie 9', 'opera 12.1', 'ios 6', 'android 4'))
     .pipe(gulp.dest('./assets/css'))
     .pipe(rename({suffix: '.min'}))
-    .pipe(minifycss())
+    .pipe(cleanCSS({compatibility: 'ie8'}))
     .pipe(gulp.dest('./assets/css'))
     .pipe(gulp.dest('static/assets/css'))
     .pipe(browserSync.reload({stream:true}))
     .pipe(notify({ message: 'Styles task complete' }));
 });
-
+gulp.task('styles-vendor', function() {
+    return gulp.src('assets/css-vendor/*.css')
+        .pipe(rename({suffix: '.min'}))
+        .pipe(cleanCSS({compatibility: 'ie8'}))
+        .pipe(gulp.dest('static/assets/css'))
+        .pipe(notify({ message: 'Vendor CSS task complete'}));
+});
 gulp.task('scripts', function() {
   return gulp.src('assets/js/*.js')
     //.pipe(jshint('.jshintrc'))
@@ -79,6 +86,7 @@ gulp.task('watch', function() {
   gulp.watch('./assets/img/*/*', ['imagemin-dist']);
 });
 
+// To run when developing/testing
 gulp.task('default', function() {
-    gulp.start('styles', 'scripts', 'imagemin-dist','watch');
+    gulp.start('styles-vendor', 'styles', 'scripts', 'imagemin-dist','watch');
 });

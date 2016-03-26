@@ -17,3 +17,7 @@ In /content/article
 <link rel="stylesheet" type="text/css" media="print" href="<?php bloginfo('template_url'); ?>/print.css" />
 <link rel="alternate" type="application/rss+xml" title="RSS .92" href="<?php bloginfo('rss_url'); ?>" />
 ```
+
+
+How to upload to github
+----------------------------

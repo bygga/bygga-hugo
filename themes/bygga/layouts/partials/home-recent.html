@@ -7,7 +7,7 @@
       <h5 class="section-description">Améliorez vos connaissances et restez informé sur les nouvelles techniques du web en lisant nos articles du blog.</h5>
     </header>
     <div class="row">
-        {{ range first 5 (where .Site.Recent "Section" "article") }}
+        {{ range first 5 (where .Site.Pages "Section" "article") }}
             {{ .Render "summary"}}
         {{ end }}
     </div>
